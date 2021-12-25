@@ -1,0 +1,52 @@
+*Phuong thuc tren text:Bai 4,Bai 11,Bai 13,Bai 16V
+*Lys thuyet iteration iterable va interator,generator ,generrator expression,container(De thu 7 noi)
+*Ham print(Phan biet packing va unpacking argument )V
+-In ra nhung kieu du lieu khac nhau trong cung 1 hang bang cach ep kieu va khong ep kieu(sdung sep)V
+-ghi file bang ham print (va hieu nguyen ly cua no)V
+-Dung ham sleep in ra lan luot chu Tuan dep traiV
+-Nang cao : dung ham sleep hien thi duong di xoay oc cua ma tran xoay oc va hinh tam giac.
+*Ham input va eval
+(Monday evening)
+-----------------------------------------------------------------------------------------------
+SU dung ham input nhap va xuat ra cac kieu du lieu cua python
+*Ham bool on lai cac ham va toan tu (Tuesday Morning)
+-------------------------------------------------------------------------------------------
+*For if else:(Saturnday full)
+Bai 1,3,9,10,15,bai 21,bai 22
+Viet chuong trinh tinh khoang cach tu vi tri dau den vi tri cuoi cua mot con robot
+tren mot mat phang
+Nguoi su dung tuy y dieu chinh con robot theo mot quang duong nhat dinh up down right left 
+roi in ra tao do cua no
+Bai 25
+-Cau truc cai tien cua- sprial matrix
+-5 thuat toan con lai cua c,tim kiem nhi phan
+------------------------------------------------------------------------------------------
+*Function(Hieu dc ban chat cua ham la gi,ban chat cua default argument la gi,parameter.)
+=>Ung dung:them lan luot cac dso chan vao trong list rong gan bang boi default argumentV
+-Positional va keyword arg (phan biet )V
++Check cach su dung(chu ykeyword arg bao gio cung nam o cuoi chuoi khai bao)V
++Cah su dung ky tu * phan tach positional va keyword only argV
++Su dung packing arg bang * (positional only),sau packing luu y chi dc su dung keywordV
++Cach su dung va ung dung cua unpacking argV
+-Locals va globals(on lai bien local va global va cac ham liet ke cac bien global va locals)
+(4,5,6 chieu)V
+-----------------------------------------------------------------------------------------
+-Return :(Sunday)
++Thu dung ham return tra ve nhieu bien cung lucV
++Bai tap return.V
+-Yield
++HIeu duoc ban chat lenh yeild,phan biet no voi returnV
++Cach su dung phuong thuc sendV
+-LambdaV
++Hieu ban chat cua LambdaV
++Su dung lambda tinh trung binh cong cua 4 so truyen vao voi mot gia tri moac dinh la10
++SU dung Lamda in ra x dep trai voi ham lam da duoc tao ra trong def,
++Su dung lst co chua cac Lambda roi in ra cac gia tri cua chung
++Tan dung Lambda voi dictionary
++Ap dung Lambda voi if else ttruyen vao mot so xem no co phai uoc chung cua hai so ban dau hay koV
++Lambda chong Lambda.V
+_FUNc tools:on lai cach su dung ba ham reduce map va V
+------------------------------------------------------------------------------------------------
+-Dequy:(Tuesday Morning)
+-tinh tong day Fibonaci su dung dequy V
+-Giai thuat Thap ha noi V
